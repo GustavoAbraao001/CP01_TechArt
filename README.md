@@ -19,8 +19,6 @@ Um efeito de explosão arcana original e impactante, composto por múltiplos sis
 *   **Onda de Choque**: Uma expansão rápida que se propaga do núcleo, utilizando uma textura de anel.
 *   **Faíscas Arcanas**: Partículas menores e rápidas que se dispersam com rastros (`Trails`).
 *   **Resíduo Mágico**: Uma névoa que permanece e se dissipa lentamente, adicionando um toque místico.
-
-Este efeito explora emissão em `Bursts`, cores vibrantes (roxo, ciano, magenta), texturas de brilho (`Glow`) e anel (`Ring`), e movimento dinâmico para criar uma sensação de poder mágico.
 ---
 **Aluno:** [Gustavo Abraão Campanelli de Brito]  
 **RM:** [566322]
